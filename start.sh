@@ -5,8 +5,7 @@ npm install playwright
 echo 正在安装 Chromium...
 npm exec playwright install chromium
 
-REM 安装依赖包
-call npm install
+echo 安装依赖包
 # 安装依赖包
 npm install
 
