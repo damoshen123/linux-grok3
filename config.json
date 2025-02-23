@@ -1,0 +1,13 @@
+{
+    "port": 3333,
+    "pro":false,
+    "twoHours":30,
+    "proxy":true,
+    "channel": "chromium",
+    "channel注释":"支持chromium、msedge、chrome",
+    "proxyUrl":"http://127.0.0.1:7890",
+    "wutou":false,
+    "tohuman":false,
+    "Prompt":"阅读并遵守文档内容！"
+  }
+  
